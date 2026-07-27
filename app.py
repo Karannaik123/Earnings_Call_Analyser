@@ -15,9 +15,10 @@ st.set_page_config(
 # ── Load Data ───────────────────────────────────
 @st.cache_data
 def load_data():
-    mgmt = pd.read_csv("data/management_sentiment.csv")
-    topics = pd.read_csv("data/topic_assignments.csv")
-    structured = pd.read_csv("data/structured_utterances.csv")
+    base = os.path.dirname(os.path.abspath(__file__))
+    mgmt = pd.read_csv(os.path.join(base, "data/management_sentiment.csv"))
+    topics = pd.read_csv(os.path.join(base, "data/topic_assignments.csv"))
+    structured = pd.read_csv(os.path.join(base, "data/structured_utterances.csv"))
     return mgmt, topics, structured
 
 mgmt_df, topic_df, struct_df = load_data()
