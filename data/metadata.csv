@@ -1,0 +1,41 @@
+filename,ticker,company,sector,quarter,filepath,size_kb
+BAJAJFIN_Q1FY25.pdf,BAJAJFIN,Bajaj Finance,NBFC,Q1FY25,data/raw_transcripts/BAJAJFIN_Q1FY25.pdf,470.5
+BAJAJFIN_Q2FY25.pdf,BAJAJFIN,Bajaj Finance,NBFC,Q2FY25,data/raw_transcripts/BAJAJFIN_Q2FY25.pdf,408.9
+BAJAJFIN_Q3FY25.pdf,BAJAJFIN,Bajaj Finance,NBFC,Q3FY25,data/raw_transcripts/BAJAJFIN_Q3FY25.pdf,257.8
+BAJAJFIN_Q4FY25.pdf,BAJAJFIN,Bajaj Finance,NBFC,Q4FY25,data/raw_transcripts/BAJAJFIN_Q4FY25.pdf,232.3
+HDFC_Q1FY25.pdf,HDFC,HDFC Bank,Banking,Q1FY25,data/raw_transcripts/HDFC_Q1FY25.pdf,262.5
+HDFC_Q2FY25.pdf,HDFC,HDFC Bank,Banking,Q2FY25,data/raw_transcripts/HDFC_Q2FY25.pdf,239.9
+HDFC_Q3FY25.pdf,HDFC,HDFC Bank,Banking,Q3FY25,data/raw_transcripts/HDFC_Q3FY25.pdf,605.2
+HDFC_Q4FY25.pdf,HDFC,HDFC Bank,Banking,Q4FY25,data/raw_transcripts/HDFC_Q4FY25.pdf,286.0
+HUL_Q1FY25.pdf,HUL,Hindustan Unilever,FMCG,Q1FY25,data/raw_transcripts/HUL_Q1FY25.pdf,311.1
+HUL_Q2FY25.pdf,HUL,Hindustan Unilever,FMCG,Q2FY25,data/raw_transcripts/HUL_Q2FY25.pdf,252.2
+HUL_Q3FY25.pdf,HUL,Hindustan Unilever,FMCG,Q3FY25,data/raw_transcripts/HUL_Q3FY25.pdf,268.9
+HUL_Q4FY25.pdf,HUL,Hindustan Unilever,FMCG,Q4FY25,data/raw_transcripts/HUL_Q4FY25.pdf,254.6
+INFY_Q1FY25.pdf,INFY,Infosys,IT,Q1FY25,data/raw_transcripts/INFY_Q1FY25.pdf,237.5
+INFY_Q2FY25.pdf,INFY,Infosys,IT,Q2FY25,data/raw_transcripts/INFY_Q2FY25.pdf,232.2
+INFY_Q3FY25.pdf,INFY,Infosys,IT,Q3FY25,data/raw_transcripts/INFY_Q3FY25.pdf,164.2
+INFY_Q4FY25.pdf,INFY,Infosys,IT,Q4FY25,data/raw_transcripts/INFY_Q4FY25.pdf,317.2
+MARUTI_Q1FY25.pdf,MARUTI,Maruti Suzuki,Auto,Q1FY25,data/raw_transcripts/MARUTI_Q1FY25.pdf,248.5
+MARUTI_Q2FY25.pdf,MARUTI,Maruti Suzuki,Auto,Q2FY25,data/raw_transcripts/MARUTI_Q2FY25.pdf,302.4
+MARUTI_Q3FY25.pdf,MARUTI,Maruti Suzuki,Auto,Q3FY25,data/raw_transcripts/MARUTI_Q3FY25.pdf,362.0
+MARUTI_Q4FY25.pdf,MARUTI,Maruti Suzuki,Auto,Q4FY25,data/raw_transcripts/MARUTI_Q4FY25.pdf,356.4
+Reliance_Q1FY25.pdf,Reliance,Unknown,Unknown,Q1FY25,data/raw_transcripts/Reliance_Q1FY25.pdf,702.6
+Reliance_Q2FY25.pdf,Reliance,Unknown,Unknown,Q2FY25,data/raw_transcripts/Reliance_Q2FY25.pdf,972.1
+Reliance_Q3FY25.pdf,Reliance,Unknown,Unknown,Q3FY25,data/raw_transcripts/Reliance_Q3FY25.pdf,748.9
+Reliance_Q4FY25.pdf,Reliance,Unknown,Unknown,Q4FY25,data/raw_transcripts/Reliance_Q4FY25.pdf,963.5
+SUNPHARMA_Q1FY25.pdf,SUNPHARMA,Sun Pharma,Pharma,Q1FY25,data/raw_transcripts/SUNPHARMA_Q1FY25.pdf,273.5
+SUNPHARMA_Q2FY25.pdf,SUNPHARMA,Sun Pharma,Pharma,Q2FY25,data/raw_transcripts/SUNPHARMA_Q2FY25.pdf,249.2
+SUNPHARMA_Q3FY25.pdf,SUNPHARMA,Sun Pharma,Pharma,Q3FY25,data/raw_transcripts/SUNPHARMA_Q3FY25.pdf,313.8
+SUNPHARMA_Q4FY25.pdf,SUNPHARMA,Sun Pharma,Pharma,Q4FY25,data/raw_transcripts/SUNPHARMA_Q4FY25.pdf,281.4
+TCS_Q1FY25.pdf,TCS,TCS,IT,Q1FY25,data/raw_transcripts/TCS_Q1FY25.pdf,1476.0
+TCS_Q2FY25.pdf,TCS,TCS,IT,Q2FY25,data/raw_transcripts/TCS_Q2FY25.pdf,705.8
+TCS_Q3FY25.pdf,TCS,TCS,IT,Q3FY25,data/raw_transcripts/TCS_Q3FY25.pdf,449.1
+TCS_Q4FY25.pdf,TCS,TCS,IT,Q4FY25,data/raw_transcripts/TCS_Q4FY25.pdf,470.7
+Tata_Q1FY25.pdf,Tata,Tata Group,Conglomerate,Q1FY25,data/raw_transcripts/Tata_Q1FY25.pdf,1476.0
+Tata_Q2FY25.pdf,Tata,Tata Group,Conglomerate,Q2FY25,data/raw_transcripts/Tata_Q2FY25.pdf,705.8
+Tata_Q3FY25.pdf,Tata,Tata Group,Conglomerate,Q3FY25,data/raw_transcripts/Tata_Q3FY25.pdf,449.1
+Tata_Q4FY25.pdf,Tata,Tata Group,Conglomerate,Q4FY25,data/raw_transcripts/Tata_Q4FY25.pdf,470.7
+WIPRO_Q1FY25.pdf,WIPRO,Wipro,IT,Q1FY25,data/raw_transcripts/WIPRO_Q1FY25.pdf,278.6
+WIPRO_Q2FY25.pdf,WIPRO,Wipro,IT,Q2FY25,data/raw_transcripts/WIPRO_Q2FY25.pdf,289.5
+WIPRO_Q3FY25.pdf,WIPRO,Wipro,IT,Q3FY25,data/raw_transcripts/WIPRO_Q3FY25.pdf,261.9
+WIPRO_Q4FY25.pdf,WIPRO,Wipro,IT,Q4FY25,data/raw_transcripts/WIPRO_Q4FY25.pdf,369.8
