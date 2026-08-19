@@ -1,4 +1,26 @@
-streamlit
+# Core data processing
+numpy
 pandas
+
+# NLP
+nltk
+transformers
+torch
+
+# Machine learning
+scikit-learn
+
+# Text/PDF processing
+pdfplumber
+
+# Visualization
+matplotlib
 plotly
+
+# Streamlit application
+streamlit
 Pillow
+
+# Jupyter notebooks
+jupyter
+ipykernel
