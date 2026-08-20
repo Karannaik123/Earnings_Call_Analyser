@@ -23,9 +23,9 @@ Earnings_Call_Analyser/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
 ## Live Application
 
 The application is deployed on Streamlit Community Cloud:
 
-[https://your-app-url.streamlit.app](https://earningscallanalyser-aqlngs5vm3ff6njdjpwvxc.streamlit.app/)
-
+[Open the Live Application](https://earningscallanalyser-aqlngs5vm3ff6ndjdpwvxc.streamlit.app/)
